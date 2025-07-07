@@ -39026,14 +39026,14 @@ a5.toString
 b2=A.S(a5,B.j,b2).w.a.b*0.035}return A.axI(a9,new A.MO(a8.d,A.cR(A.b([new A.bL(new A.ag(b4,0,b4,0),b5,a9),b6,q,s,new A.bL(new A.ag(r,0,r,0),o,a9),n,m,l,new A.bL(new A.ag(k,0,k,0),j,a9),i,new A.bL(new A.ag(h,0,h,0),g,a9),f,new A.bL(new A.ag(e,0,e,0),d,a9),c,new A.bL(new A.ag(b,0,b,0),a,a9),a0,new A.bL(new A.ag(a1,0,a1,0),A.cR(A.b([a2,a3,a4,A.bb(a9,b2,a9)],p),B.C,B.S,B.K,0),a9)],p),B.C,B.S,B.K,0),a9))},
 hi(a,b,c){var s=A.bO(0,400),r=this.e[b],q=r?1:0,p=A.bO(0,400)
 return new A.NV(new A.ajr(this,b),A.aud(new A.wm(a,r?B.e:c,B.aF,p,null,null),B.aF,s,q),new A.cd("element_"+b,t.kK))},
-a2K(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="MontserratAlt",e="Get Early Access"
+a2K(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="MontserratAlt"
 if(a)s=12
 else{s=h.c
 s.toString
 s=A.S(s,B.j,t.w).w.a.b*0.025}r=t.p
 if(a){q=A.br("ATHLON",g,g,g,A.bz(g,g,B.l,g,g,g,g,g,f,g,g,28,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 p=A.aqW(g,g,B.l,g,g,g,g,g,g,g,g,g,g,g,new A.cA(A.de(16),B.t),g,g,g,g)
-r=A.hv(A.b([new A.ds(new A.ajk(h),g),q,A.aqV(new A.bL(new A.ag(12,8,12,8),A.br(e,g,g,g,A.bz(g,g,B.m,g,g,g,g,g,g,g,g,14,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),g),new A.ajl(h),p)],r),B.C,B.db,B.K,g)}else{q=h.c
+r=A.hv(A.b([new A.ds(new A.ajk(h),g),q,A.aqV(new A.bL(new A.ag(12,8,12,8),A.br("Get Now",g,g,g,A.bz(g,g,B.m,g,g,g,g,g,g,g,g,14,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),g),new A.ajl(h),p)],r),B.C,B.db,B.K,g)}else{q=h.c
 q.toString
 p=t.w
 q=A.br("ATHLON",g,g,g,A.bz(g,g,B.l,g,g,g,g,g,f,g,g,A.S(q,B.j,p).w.a.b*0.04,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)
@@ -39051,7 +39051,7 @@ j.toString
 j=A.S(j,B.j,p).w.a.b*0.01
 i=h.c
 i.toString
-r=A.hv(A.b([q,o,n,m,A.aqV(new A.bL(new A.ag(j,k,j,k),A.br(e,g,g,g,A.bz(g,g,B.m,g,g,g,g,g,g,g,g,A.S(i,B.j,p).w.a.b*0.015,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),g),new A.ajp(h),l)],r),B.C,B.db,B.K,g)}return new A.bL(new A.ag(0,s,0,0),r,g)},
+r=A.hv(A.b([q,o,n,m,A.aqV(new A.bL(new A.ag(j,k,j,k),A.br("Get Now",g,g,g,A.bz(g,g,B.m,g,g,g,g,g,g,g,g,A.S(i,B.j,p).w.a.b*0.015,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),g),new A.ajp(h),l)],r),B.C,B.db,B.K,g)}return new A.bL(new A.ag(0,s,0,0),r,g)},
 BN(a,b,c,d){var s,r,q,p=null
 if(d)s=14
 else{s=this.c
